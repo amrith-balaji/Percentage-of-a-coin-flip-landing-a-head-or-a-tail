@@ -1,4 +1,4 @@
-# percentage-of-a-coin-flip-landing-a-head-or-a-tail
+# Percentage-of-a-coin-flip-landing-a-head-or-a-tail
 here is the code
 ```
 #include <stdio.h>
