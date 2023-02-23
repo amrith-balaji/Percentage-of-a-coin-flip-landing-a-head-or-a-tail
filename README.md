@@ -33,5 +33,8 @@ int main() {
 the above two lines can be uncommented to print the number of heads and tails too 
 it calculates the number of heads and tails out of a million coin flips and then calculates their percentages. 
 here is the output after upload :
+
+
+
 ![image](https://user-images.githubusercontent.com/124582454/220929199-cba7b21a-1e96-4f59-a3ba-4331faf8448a.png)
 
