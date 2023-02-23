@@ -38,3 +38,16 @@ here is the output after upload :
 
 ![image](https://user-images.githubusercontent.com/124582454/220929199-cba7b21a-1e96-4f59-a3ba-4331faf8448a.png)
 
+
+
+here is the code for a shell script to run the program 1000000 times
+```
+#!/bin/bash
+num=1
+while [ $num -ne 1000000 ]
+do
+         ./rand2
+         num=$(($num+1))
+         sleep 1
+done
+```
